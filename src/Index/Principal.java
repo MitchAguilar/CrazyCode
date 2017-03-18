@@ -241,7 +241,7 @@ public class Principal {
                     System.out.println(" ****************************************        ");
                     System.out.println("  ************************************");
                     System.out.println("    ********************************");
-                    System.out.println(" by:David Anacona, Stefany Cardenas ");
+                    System.out.println(" by:David Anacona, Stefany Cardenas,Maicol Aguilar");
                     return;
                 default:
                     System.out.println("ERROR DIGITE UNA OPCIÓN CORRECTA--- lml\n");
